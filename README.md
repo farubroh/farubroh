@@ -13,7 +13,7 @@
 <p>
   👯 I’m looking to collaborate on Machine Learning and Deep Learning Projects
 </p>
-<img align="right" height="150" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="thinking gif" />
+<img align="right" height="150" src="https://media.licdn.com/dms/image/D4D12AQF3jIMl_azjuw/article-cover_image-shrink_720_1280/0/1696400626305?e=1727913600&v=beta&t=zyatD6iwLfqzfDpOQBj991AWPUWXFg643kcg6TIWp9U" alt="thinking gif" />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
