@@ -40,13 +40,13 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="30" alt="powerbi logo" />
 </div>
 <div align="left">
-  <a href="https://www.youtube.com/channel/UCbZtvbl-zCRet89MWK69w5g" target="_blank">
+  <a href="https://www.youtube.com/channel/UCbZtvbl-zCRet89MWK69w5g" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
-  <a href="https://www.linkedin.com/in/omar-faruk-vai/" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-faruk-vai/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:f.omarfaruk01@gmail.com" target="_blank">
+  <a href="mailto:f.omarfaruk01@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
