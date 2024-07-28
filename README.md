@@ -1,6 +1,3 @@
-
-Certainly! Here's the updated README file with the additional tools and technologies:
-
 <h2 align="left">Hi human 👋! My name is Md. Omar Faruk</h2>
 <p>“Seek knowledge though it may be as far as China”—Prophet Muhammad</p>
 <div align="center">
@@ -11,13 +8,11 @@ Certainly! Here's the updated README file with the additional tools and technolo
   🔭 I’m currently working on Machine Learning (Natural Language Processing, Speech Processing, Computer Vision - OCR, Image Captioning)
 </p>
 <p>
-  🌱 I’m currently learning  data visualization, and Exploratory Data Analysis (EDA)
+  🌱 I’m currently learning data visualization, and Exploratory Data Analysis (EDA)
 </p>
-
 <p>
   👯 I’m looking to collaborate on Machine Learning and Deep Learning Projects
 </p>
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
