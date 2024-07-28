@@ -1,4 +1,4 @@
-<h2 align="left">Hi human 👋! I am Md. Omar Faruk</h2>
+<h2 align="left">Hi human 👋! My name is Md. Omar Faruk</h2>
 <p>“Seek knowledge though it may be as far as China”—Prophet Muhammad</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farubroh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -13,9 +13,7 @@
 <p>
   👯 I’m looking to collaborate on Machine Learning and Deep Learning Projects
 </p>
-
-
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D4D12AQF3jIMl_azjuw/article-cover_image-shrink_720_1280/0/1696400626305?e=1727913600&v=beta&t=zyatD6iwLfqzfDpOQBj991AWPUWXFg643kcg6TIWp9U" alt="thinking gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="thinking gif" />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
@@ -35,11 +33,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqla logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="30" alt="powerbi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo" />
 </div>
 <div align="left">
   <a href="https://www.youtube.com/channel/UCbZtvbl-zCRet89MWK69w5g" target="_blank" rel="noopener noreferrer">
