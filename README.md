@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left"> 🔭 I’m currently working on Machine Learning (Natural Language Processing, Speech Processing, Computer Vision - OCR, Image Captioning)<br> 📚 I’m currently learning data visualization, and Exploratory Data Analysis (EDA)<br> ⚡ I’m looking to collaborate on Machine Learning and Deep Learning Projects
+<p align="left"> 🔭 I’m currently working on Machine Learning (Natural Language Processing, Speech Processing, Computer Vision - OCR, Image Captioning)<br> 📚 I’m currently learning topics on Data Science  , and Exploratory Data Analysis (EDA)<br> ⚡ I’m looking to collaborate on Machine Learning and Deep Learning Projects
 </p>
 
 ###
